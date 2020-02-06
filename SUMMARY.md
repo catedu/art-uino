@@ -7,4 +7,5 @@
 * [TÁCTIL](pulsador-tactil.md)
 * [ULTRASONIDOS](ultrasonidos.md)
 * [LÁSER](laser.md)
+* [IR](ir.md)
 
