@@ -1,4 +1,7 @@
 #PULSADOR TÁCTIL
+No tiene mucho misterio: detecta una acumulación de carga y dispara un pulso positivo
+
+![](https://catedu.gitbooks.io/domotica-con-arduino/content/assets/2019-03-08%2013_15_12-1.3%20Kit%20de%20pr%C3%A9stamo%20de%20CATEDU%20%C2%B7%20DOMOTICA%20CON%20ARDUINO.jpg)
 
 ###Conectamos
 
