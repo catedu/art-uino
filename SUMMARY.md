@@ -8,4 +8,6 @@
 * [ULTRASONIDOS](ultrasonidos.md)
 * [LÁSER](laser.md)
 * [IR](ir.md)
+* [LDR](ldr.md)
+* [BUZZER](buzzer.md)
 
