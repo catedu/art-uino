@@ -24,6 +24,7 @@ También igual que el electroimán, necesitamos una potencia extra con las pilas
 Utilizaremos la configuración sencilla en fase1 es decir:
 
 ![](https://www.luisllamas.es/wp-content/uploads/2016/08/arduino-motor-paso-paso-secuencia-1-fase.png)
+
 Imagen BY-NC-SA de [Luis Llamas](https://www.luisllamas.es/motor-paso-paso-28byj-48-arduino-driver-uln2003/)
 
 Es decir:
@@ -59,7 +60,7 @@ Esperamos un rato y ... TACHÁN !!! **VA MÁS RÁPIDO**
 
 >OJO, AHORA EL ARDUINO PASA OLIMPICAMENTE DE MBLOCK para volverlo a su estado, repite las diapositivas 5-6-7 de la [página mBlock](/chapter1.md)
 
-+INFO
+###+INFO
 
 https://www.luisllamas.es/motor-paso-paso-28byj-48-arduino-driver-uln2003/
 
