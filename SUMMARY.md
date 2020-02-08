@@ -10,4 +10,5 @@
 * [IR](ir.md)
 * [LDR](ldr.md)
 * [BUZZER](buzzer.md)
+* [ELECTROIMÁN](electroiman.md)
 
