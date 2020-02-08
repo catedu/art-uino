@@ -11,4 +11,5 @@
 * [LDR](ldr.md)
 * [BUZZER](buzzer.md)
 * [ELECTROIMÁN](electroiman.md)
+* [PASO A PASO](motor-paso-a-paso.md)
 

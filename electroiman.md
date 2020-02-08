@@ -24,4 +24,9 @@ Para dar esa potencia utilizaremos otra fuente externa, unas pilas:
 
 Pulsamos la tecla espacio ¿qué ocurre?
 
+### +INFO
+https://www.luisllamas.es/arduino-actuador-electromagnetico/
+
+
+
 
