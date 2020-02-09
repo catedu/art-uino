@@ -12,4 +12,6 @@ Debido a que necesita unas librerías específicas **NO PODEMOS USAR MBLOCK**
 
  Si tu proyecto necesita este componente, hay que hacerlo con **código**.
   
-  Para más información de cómo usarlo, consulta esta página de [Luis Llamas ](https://www.luisllamas.es/arduino-orientacion-imu-mpu-6050/)
+  Para más información de cómo usarlo, consulta esta página de [Luis Llamas ](https://www.luisllamas.es/arduino-orientacion-imu-mpu-6050/) que utiliza tres librerías
+  
+  Otra forma es [aquí ](https://www.electronicshub.org/getting-started-arduino-mpu6050/)que utiliza sólo la librería wire.h
