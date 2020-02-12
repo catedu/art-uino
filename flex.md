@@ -1,9 +1,7 @@
 #RESISTENCIA FLEX
 Es una resistencia que cuanto más se dobla más resistencia ofrece, desde 25k hasta 125k
 
-![](/assets/2020-02-12 12_13_26.jpg)
-
-*Image from [Datasheet Sparkfun](https://www.sparkfun.com/datasheets/Sensors/Flex/flex22.pdf)*
+[![Datasheet Sparkfun](/assets/2020-02-12 12_13_26.jpg)](https://www.sparkfun.com/datasheets/Sensors/Flex/flex22.pdf)
 
 ###Conectamos
 

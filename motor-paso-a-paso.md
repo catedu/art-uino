@@ -42,6 +42,7 @@ Si lo hacemos como siempre, por ejemplo con este programa [[aquí para descargar
 
 ![](/assets/2020-02-08 17_39_27-Window.png)
 
+>**info**
 >VERAS QUE VA MUUUUUUY LENTO 
 
 ¿Por qué? porque tiene que comunicarse con el ordenador constantemente
@@ -58,24 +59,9 @@ Entramos en Edición - vista arduino y pulsamos UPLOAD TO ARDUINO
 
 Esperamos un rato y ... TACHÁN !!! **VA MÁS RÁPIDO**
 
+>**danger**
 >OJO, AHORA EL ARDUINO PASA OLIMPICAMENTE DE MBLOCK para volverlo a su estado, repite las diapositivas 5-6-7 de la [página mBlock](/chapter1.md)
 
 ###+INFO
 
 https://www.luisllamas.es/motor-paso-paso-28byj-48-arduino-driver-uln2003/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

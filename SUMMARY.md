@@ -17,3 +17,6 @@
 * [PIEZOELÉCTRICO](piezoelectrico.md)
 * [FLEX](flex.md)
 
+---
+
+* [Créditos](creditos.md)
