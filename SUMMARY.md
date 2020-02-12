@@ -15,4 +15,5 @@
 * [ACELERÓMETRO](acelerometro.md)
 * [POTENCIOMETRO](potenciometro.md)
 * [PIEZOELÉCTRICO](piezoelectrico.md)
+* [FLEX](flex.md)
 
