@@ -16,7 +16,9 @@
 * [POTENCIOMETRO](potenciometro.md)
 * [PIEZOELÉCTRICO](piezoelectrico.md)
 * [FLEX](flex.md)
+* [MOTOR](motor.md)
 
 ---
 
 * [Créditos](creditos.md)
+
