@@ -12,12 +12,13 @@
 * [BUZZER](buzzer.md)
 * [ELECTROIMÁN](electroiman.md)
 * [PASO A PASO](motor-paso-a-paso.md)
-* [ACELERÓMETRO](acelerometro.md)
 * [POTENCIOMETRO](potenciometro.md)
 * [PIEZOELÉCTRICO](piezoelectrico.md)
 * [FLEX](flex.md)
 * [MOTOR](motor.md)
 * [MICROONDAS](microondas.md)
+* [ACELERÓMETRO](acelerometro.md)
+
 
 ---
 
