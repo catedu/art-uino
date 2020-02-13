@@ -1,5 +1,12 @@
 #LED RBG
 
+Es un led que nos permite los 3 colores o mezclas a través de su 3 pines RGB
+
+![](/assets/2020-02-13 12_58_04.jpg)
+
+No obstante si no te gusta tenerlo todo en un sólo led y quieres visualizar los colores por separado, te damos la opción de usar el semáforo
+
+![](/assets/2020-02-13 13_00_37.jpg)
 ###Conexión
 
 * (-) en GND
