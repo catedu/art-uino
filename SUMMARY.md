@@ -1,6 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
+* [Material](material.md)
 * [mBlock](chapter1.md)
 * [LED RGB](led-rgb.md)
 * [Protoboard](protoboard.md)
@@ -17,8 +18,7 @@
 * [FLEX](flex.md)
 * [MOTOR](motor.md)
 * [MICROONDAS](microondas.md)
-* [ACELERÓMETRO](acelerometro.md)
-
+* [Material](material.md)
 
 ---
 
