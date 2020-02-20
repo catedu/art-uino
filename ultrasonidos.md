@@ -2,7 +2,6 @@
 ###    Conectamos
 
 * GND y VCC a GND y 5V
-GND y VCC a GND y 5V
 * ECHO a un pin digital, por ejemplo D12
 * TRIG a un pin digital, por ejemplo D13
 
