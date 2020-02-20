@@ -12,13 +12,13 @@
 * [LDR](ldr.md)
 * [BUZZER](buzzer.md)
 * [ELECTROIMÁN](electroiman.md)
-* [PASO A PASO](motor-paso-a-paso.md)
 * [POTENCIOMETRO](potenciometro.md)
 * [PIEZOELÉCTRICO](piezoelectrico.md)
 * [FLEX](flex.md)
-* [MOTOR](motor.md)
 * [MICROONDAS](microondas.md)
-
+* [SERVO](servo.md)
+* [PASO A PASO](motor-paso-a-paso.md)
+* [MOTOR](motor.md)
 
 ---
 
