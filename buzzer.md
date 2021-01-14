@@ -1,6 +1,6 @@
 #BUZZER ACTIVO
 
-![](https://catedu.gitbooks.io/domotica-con-arduino/content/assets/buzzer.jpg)
+![](https://catedu.github.io/domotica-con-arduino/assets/buzzer.jpg)
 
 La diferencia con el pasivo es que no es necesario enviarle pulsos para que emita una frecuencia, sólo tenemos que dar la orden y él reproduce un tono.
 

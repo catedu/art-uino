@@ -2,7 +2,7 @@
 
 El LDR es una resistencia que varía su valor con la luz, cuanto más OSCURO más grande es su valor, por lo tanto por la ley de Ohm este módulo nos da una señal analógica que aumenta con la oscuridad. 
 
-![](https://catedu.gitbooks.io/domotica-con-arduino/content/assets/2019-03-07%2019_34_24-Window.jpg)
+![](https://catedu.github.io/domotica-con-arduino/assets/2019-03-07%2019_34_24-Window.jpg)
 
 ###Conexión
 
